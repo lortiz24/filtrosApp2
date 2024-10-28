@@ -1,0 +1,12 @@
+.icon-container {
+  display: inline-block; /* Hace que el contenedor se ajuste al tamaño del contenido */
+  padding: 8px; /* Espacio alrededor del ícono */
+  border-radius: 50%; /* Para hacer el contenedor redondo */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.icon {
+  width: 173px; /* Ajusta el tamaño del ícono */
+  height: 102px;
+  display: block;
+}

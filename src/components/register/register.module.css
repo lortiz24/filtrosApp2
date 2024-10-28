@@ -1,0 +1,4 @@
+.input::placeholder {
+  color: white; /* Cambia el color del placeholder */
+  opacity: 0.7; /* Opcional: Ajusta la opacidad del placeholder */
+}
